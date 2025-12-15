@@ -1,0 +1,18 @@
+# Node
+node_modules/
+dist/
+
+# Local Environment & Logs
+.env
+.env.local
+.env.*.local
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+!.vscode/extensions.json
+.idea/
